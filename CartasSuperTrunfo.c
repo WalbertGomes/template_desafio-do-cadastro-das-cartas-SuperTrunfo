@@ -2,8 +2,8 @@
 
 int main(){
 
-    //inicio do supertrunfo
-    
+    //A
+
     char estado1;
     char codigo1[10];
     char cidade1[50];
@@ -96,35 +96,6 @@ int main(){
 
 
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 }
