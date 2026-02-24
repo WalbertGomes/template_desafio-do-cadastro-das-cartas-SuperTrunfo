@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main(){
+
+    //inicio do supertrunfo
+    
     char estado1;
     char codigo1[10];
     char cidade1[50];
