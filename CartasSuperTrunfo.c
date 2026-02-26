@@ -2,7 +2,7 @@
 
 int main(){
 
-    //A
+    //Com modificacao para o nivel aventureiro
 
     char estado1;
     char codigo1[10];
