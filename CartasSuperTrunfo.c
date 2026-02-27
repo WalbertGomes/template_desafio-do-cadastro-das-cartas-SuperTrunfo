@@ -2,7 +2,7 @@
 
 int main(){
 
-    //Com modificacao para o nivel 
+    //Com modificacao para o nivel Mestre
 
     char estado1;
     char codigo1[10];
